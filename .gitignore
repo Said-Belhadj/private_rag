@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# database
+chroma_private_rag/
+
+data/
+
+# OS
+.DS_Store
